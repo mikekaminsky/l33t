@@ -4,6 +4,8 @@ factorial = (n):
         total *= i.
     total.
 
+#This is a comment
+
 10 times (i):
     i string print
     '! is: ' print
