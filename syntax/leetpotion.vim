@@ -19,7 +19,7 @@ highlight link potionKeyword Keyword
 "However I think that if we do 'matches', we can preserve the old syntax
 "highlighting.
 "http://stackoverflow.com/questions/7033310/vim-custom-syntax-highlighting-background-only
-highlight potionKeyword guibg=LightRed
+"highlight potionKeyword guibg=LightRed
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 " Function
